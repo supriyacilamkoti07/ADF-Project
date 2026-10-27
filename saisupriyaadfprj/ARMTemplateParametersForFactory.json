@@ -1,0 +1,39 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "saisupriyaadfprj"
+		},
+		"ls_azuresqldb_password": {
+			"value": ""
+		},
+		"ls_datalake_accountKey": {
+			"value": ""
+		},
+		"ls_onprem_file_password": {
+			"value": ""
+		},
+		"ls_azuresqldb_properties_typeProperties_server": {
+			"value": "adfprojectsai.database.windows.net"
+		},
+		"ls_azuresqldb_properties_typeProperties_database": {
+			"value": "adfprojectdb"
+		},
+		"ls_azuresqldb_properties_typeProperties_userName": {
+			"value": "adminadmin7"
+		},
+		"ls_datalake_properties_typeProperties_url": {
+			"value": "https://adfsaistorage.dfs.core.windows.net/"
+		},
+		"ls_github_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/"
+		},
+		"ls_onprem_file_properties_typeProperties_host": {
+			"value": "C:\\supriya"
+		},
+		"ls_onprem_file_properties_typeProperties_userId": {
+			"value": "Saisupriya7@outlook.com"
+		}
+	}
+}
