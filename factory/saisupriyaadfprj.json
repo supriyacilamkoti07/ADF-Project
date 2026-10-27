@@ -1,0 +1,15 @@
+{
+	"name": "saisupriyaadfprj",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ce5c1725-1617-4143-9c3f-6cf287b13b1e",
+		"tenantId": "b6802c72-4521-4bf0-9f88-439fd63044f5"
+	}
+}
